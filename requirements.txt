@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+groq
+sentence-transformers
+scikit-learn
+matplotlib
+wordcloud
+torchvision
+plotly
+st-theme
