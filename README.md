@@ -33,8 +33,3 @@ Este projeto foi desenvolvido como uma aplicação prática dos conceitos estuda
 ---
 **Desenvolvido por Hugo Rocha** [LinkedIn](https://www.linkedin.com/in/hugogrocha) | [GitHub](https://github.com/hugogr99)
 
-
-
-https://github.com/user-attachments/assets/0ed1baa4-ffe3-4c88-a9e2-d4bb5800f608
-
-
